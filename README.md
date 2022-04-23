@@ -25,7 +25,8 @@ CREATE TABLE [dbo].[Football_Player](
 	[TransferListStatus] [varchar](50) NOT NULL
 	)
 
-
+How to run:
+python player_info_register.py
 
 
 
