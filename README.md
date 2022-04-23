@@ -24,3 +24,13 @@ CREATE TABLE [dbo].[Football_Player](
 	[TransferValue] [int] NOT NULL,
 	[TransferListStatus] [varchar](50) NOT NULL
 	)
+
+
+
+
+
+![app_screen](https://user-images.githubusercontent.com/89083426/164913689-0aedb1ef-d98f-4750-be36-6ed3d65ac52b.png)
+
+![db_result](https://user-images.githubusercontent.com/89083426/164913695-1ceb247f-074a-4413-896d-b7d1dabbcd2b.png)
+
+
